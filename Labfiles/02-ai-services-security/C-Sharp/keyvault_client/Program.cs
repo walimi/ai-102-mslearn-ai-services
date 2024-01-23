@@ -6,6 +6,7 @@ using static System.Environment;
 using Azure.Identity;
 using Azure.Security.KeyVault.Secrets;
 
+
 namespace keyvault_client
 {
     class Program
